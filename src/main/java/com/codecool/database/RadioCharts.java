@@ -2,5 +2,13 @@ package com.codecool.database;
 
 
 public class RadioCharts {
-    //TODO: implement this class
+    RadioCharts(String url, String user, String password) {
+
+    }
+    public String getMostPlayedSong() {
+
+    }
+    public String getMostActiveArtist() {
+
+    }
 }
